@@ -46,7 +46,7 @@ global.menu = "button";
 global.wm3 = namebot;
 global.namanews = "K I M O O"
 global.idgc = "120363310058214167@g.us"; //isi pake id gc lu
-global.isPairing = false;
+global.isPairing = true;
 global.wm4 = namebot;
 global.fla =
   "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=";
