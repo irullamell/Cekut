@@ -1,26 +1,46 @@
 {
-    "vintage": {
-        "backgroundColor": "#f5f5dc",
-        "textColor": "#8b4513",
-        "borderColor": "#d2b48c",
-        "accentColor": "#deb887"
+    "space_odyssey": {
+        "backgroundColor": "linear-gradient(#000022, #8a2be2)",
+        "textColor": "#8a2be2",
+        "borderColor": "#4b0082",
+        "accentColor": "#7f00ff",
+        "textStyle": {
+            "font": "Arial",
+            "size": "24px",
+            "alignment": "center"
+        }
     },
-    "neon": {
-        "backgroundColor": "#000000",
-        "textColor": "#39ff14",
-        "borderColor": "#ff007f",
-        "accentColor": "#ffcc00"
+    "retro_wave": {
+        "backgroundColor": "linear-gradient(#ff005a, #00bfff)",
+        "textColor": "#00bfff",
+        "borderColor": "#ff4500",
+        "accentColor": "#32cd32",
+        "textStyle": {
+            "font": "Comic Sans MS",
+            "size": "20px",
+            "alignment": "left"
+        }
     },
-    "cyberpunk": {
-        "backgroundColor": "#2e003e",
-        "textColor": "#b30059",
-        "borderColor": "#00b3e6",
-        "accentColor": "#ff00ff"
+    "cyberpunk_city": {
+        "backgroundColor": "linear-gradient(#222222, #ff0099)",
+        "textColor": "#ff0099",
+        "borderColor": "#00ffff",
+        "accentColor": "#ff6600",
+        "textStyle": {
+            "font": "Courier New",
+            "size": "22px",
+            "alignment": "right"
+        }
     },
-    "retroFuture": {
-        "backgroundColor": "#1d1d1d",
-        "textColor": "#e1e1e1",
-        "borderColor": "#ff5722",
-        "accentColor": "#00bcd4"
+    "mystic_forest": {
+        "backgroundColor": "linear-gradient(#002b36, #00ff00)",
+        "textColor": "#00ff00",
+        "borderColor": "#2e8b57",
+        "accentColor": "#ff1493",
+        "textStyle": {
+            "font": "Georgia",
+            "size": "26px",
+            "alignment": "center"
+        }
     }
 }
