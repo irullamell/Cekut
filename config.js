@@ -6,7 +6,7 @@ let cp = require("child_process");
 let { promisify } = require("util");
 let scrap = require(process.cwd() + "/scrape");
 
-global.owner = ["33392090534"];
+global.owner = ["33392090534", "6285731251154"];
 global.mods = ["33392090534"]; // Moderator
 global.prems = ["6285731251154", "33392090534"]; // Premium
 // YANG ATAS ITU UBAH JADI NOMOR LU
@@ -38,7 +38,7 @@ global.icon = "https://telegra.ph/file/65cf50ef0526f6b3348e6.jpg";
 global.thumb = "https://telegra.ph/file/65cf50ef0526f6b3348e6.jpg";
 global.version = "X-1";
 global.wm = "Kimoo bot";
-global.wmpanel = "Fiesta Panel"
+global.wmpanel = "Kimoo Panel"
 global.watermark = wm;
 global.lann = "p8ADYJib";
 global.wm2 = "Kimoo";
@@ -148,7 +148,7 @@ global.fkontak = {
     id: "",
   },
   message: {
-    conversation: `Բ ɿ ȝ Տ Ե Թ - 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱  🎨`,
+    conversation: `Kimooo - 𝘉𝘰𝘵 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 `,
   },
 };
 global.tanggal = async (numer) => {
