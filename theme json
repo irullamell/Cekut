@@ -1,0 +1,26 @@
+{
+    "vintage": {
+        "backgroundColor": "#f5f5dc",
+        "textColor": "#8b4513",
+        "borderColor": "#d2b48c",
+        "accentColor": "#deb887"
+    },
+    "neon": {
+        "backgroundColor": "#000000",
+        "textColor": "#39ff14",
+        "borderColor": "#ff007f",
+        "accentColor": "#ffcc00"
+    },
+    "cyberpunk": {
+        "backgroundColor": "#2e003e",
+        "textColor": "#b30059",
+        "borderColor": "#00b3e6",
+        "accentColor": "#ff00ff"
+    },
+    "retroFuture": {
+        "backgroundColor": "#1d1d1d",
+        "textColor": "#e1e1e1",
+        "borderColor": "#ff5722",
+        "accentColor": "#00bcd4"
+    }
+}
